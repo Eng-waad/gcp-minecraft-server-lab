@@ -1,4 +1,4 @@
-# gcp-minecraft-server-lab
+# gcp-minecraft-serve
 # Minecraft Server Deployment on Google Cloud
 
 This project demonstrates how to deploy a Minecraft server on Google Cloud Platform using Compute Engine, Persistent Disks, Firewall rules, and Cloud Storage backups.
